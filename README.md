@@ -1,6 +1,6 @@
 # Projeto Ri Happy - Bootcamp Front-End DIO
 
-Este projeto foi desenvolvido como parte do Bootcamp de Front-End da DIO, em parceria com a Ri Happy. O desafio consistia em recriar o visual de um site da Ri Happy (similar ao da imagem abaixo) utilizando um HTML pré-existente e desenvolvendo o CSS do zero.
+Este projeto foi desenvolvido como parte do Bootcamp de Front-End da DIO, em parceria com a Ri Happy. O desafio consistia em criar o visual de um site da DIO (similar ao da imagem abaixo) utilizando um HTML pré-existente e desenvolvendo o CSS do zero.
 
 [Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar a Landing Page criada pela professora no bootcamp!
 
