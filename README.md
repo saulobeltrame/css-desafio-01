@@ -1,22 +1,52 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Projeto Ri Happy - Bootcamp Front-End DIO
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Este projeto foi desenvolvido como parte do Bootcamp de Front-End da DIO, em parceria com a Ri Happy. O desafio consistia em recriar o visual de um site da Ri Happy (similar ao da imagem abaixo) utilizando um HTML pré-existente e desenvolvendo o CSS do zero.
 
 [Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
 ![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## Tecnologias Utilizadas
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+* **HTML:** Estrutura do site (fornecida pelo bootcamp).
+* **CSS:** Estilização completa do site, desenvolvida do zero para replicar o design da imagem de referência.
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+## Funcionalidades
+
+* **Layout Fixo:** O site possui um layout fixo, otimizado para a visualização em desktops.
+* **Conteúdo informativo:** Apresenta informações sobre a trilha de CSS da DIO, incluindo o conteúdo programático e um convite para se juntar à plataforma.
+
+
+## Desafios e Aprendizados
+
+Durante o desenvolvimento deste projeto, os principais desafios foram:
+
+* **Replicar o design com precisão:** Ajustar o CSS para corresponder o máximo possível à imagem de referência, especialmente no que diz respeito à tipografia, cores e posicionamento dos elementos.
+* **Trabalhar com gradientes e sombras:** Implementar os efeitos visuais de gradiente no título e sombra no texto da seção "Transforme o mundo com a gente".
+* **Organização do CSS:** Manter o código CSS organizado e legível, utilizando boas práticas como comentários e seletores eficientes.
+
+Os principais aprendizados obtidos foram:
+
+* **Aprimoramento das habilidades em CSS:** Prática na aplicação de conceitos como posicionamento de elementos, seletores, tipografia, cores, gradientes e sombras.
+* **Organização de código:**  Melhora na estruturação e organização do código CSS.
+* **Manipulação de imagens de fundo:** Aplicar imagens de fundo em diferentes seções do site.
+
+
+## Como Executar o Projeto
+
+1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git` *(Substitua pelo seu link)*
+2. Abra o arquivo `index.html` no seu navegador.
+
+
+## Próximos Passos
+
+* **Implementar responsividade:** Adaptar o layout para diferentes tamanhos de tela (desktops, tablets e celulares).
+* **Adicionar interações:** Implementar efeitos de hover nos botões e links.
+* **Melhorar a acessibilidade:** Aprimorar o contraste e a estrutura do site para garantir a acessibilidade a todos os usuários.
+
+
+## Agradecimentos
+
+Agradeço à DIO pela oportunidade de participar deste Bootcamp e desenvolver este projeto.
+
